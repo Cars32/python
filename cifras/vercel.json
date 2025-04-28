@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/IMG-20250427-164019.jpg",
+        "destination": "/index.html"
+      }
+    ]
+  }
+  
