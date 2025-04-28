@@ -1,9 +1,0 @@
-{
-    "rewrites": [
-      {
-        "source": "/https://cifras-i7qb-cars32s-projects.vercel.app/IMG-20250427-164019.jpg",
-        "destination": "/index.html"
-      }
-    ]
-  }
-  
